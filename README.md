@@ -30,6 +30,12 @@
 
 # 프로젝트 설명
 
+![아키텍쳐](https://github.com/AlwaysFighting/TravelApplication/assets/87655596/4ac8c0d3-5094-4791-9ae4-064c0778e4a0)
+![아키텍쳐-1](https://github.com/AlwaysFighting/TravelApplication/assets/87655596/b235aa31-3f79-44cb-8bd4-e8f7c1dae725)
+![아키텍쳐-2](https://github.com/AlwaysFighting/TravelApplication/assets/87655596/98b832cf-126a-4797-9f6c-82e321365e4c)
+![아키텍쳐-4](https://github.com/AlwaysFighting/TravelApplication/assets/87655596/190e5a15-2e81-4e08-830a-441134bc77a7)
+![아키텍쳐-3](https://github.com/AlwaysFighting/TravelApplication/assets/87655596/42e98746-f433-4401-80f2-2121827f4959)
+![아키텍쳐-5](https://github.com/AlwaysFighting/TravelApplication/assets/87655596/8ed1c53d-267b-48a9-936c-a6fc57be47c7)
 
 ## 🎥 유튜브 영상 링크
 https://www.youtube.com/watch?v=0AST4DXa5kE&list=PL2UBmSWpuz0Uq30oZ7hJ3TV-b9hBAYKW6&index=1
